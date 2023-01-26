@@ -20,8 +20,9 @@ if (a ===b){
 }else{
 
     window.alert("Different");
-
+    console.log("change your life")
 }
+
 
 
 // numArray=new Array(1,2,3,4,5)
